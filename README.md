@@ -1,4 +1,8 @@
-#Project Based Experiments
+## Project Based Experiments
+
+#### Developed By: Preetha.S
+#### Registor Number: 212222230110
+
 ## Objective :
  Build a Multilayer Perceptron (MLP) to classify handwritten digits in python
 ## Steps to follow:
